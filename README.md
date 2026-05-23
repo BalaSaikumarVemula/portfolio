@@ -1,16 +1,153 @@
-# React + Vite
+# Bala Sai Kumar Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using React and Tailwind CSS to showcase my skills, projects, and experience as a Java Full Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive modern UI
+- Smooth navigation
+- Hero section with profile image
+- About section
+- Skills showcase
+- Projects section with live demo and GitHub links
+- Resume download option
+- Contact section
+- Mobile-friendly design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── SkillCard.jsx
+│   ├── Projects.jsx
+│   ├── ProjectCard.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 📸 Projects Included
+
+### Knight Bite Clone
+A responsive frontend clone of the Knight Bite website built using HTML and CSS.
+
+### Weather App
+A React-based weather application using OpenWeather API to fetch real-time weather data.
+
+### Calculator
+A responsive calculator built using HTML, CSS, and JavaScript.
+
+### To-Do List
+A task management application with add, edit, and delete functionalities.
+
+---
+
+## 🧠 Skills
+
+- Java
+- Spring Boot
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- JDBC
+- Servlets
+- Hibernate
+- MySQL
+- Git & GitHub
+- Linux
+- Problem Solving
+
+---
+
+
+## 📬 Contact
+
+- Email: vemulabalasai123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bala-sai-kumar-vemula-821a49264/
+- GitHub: https://github.com/BalaSaiKumarVemula
+
+---
+
+## ⚡ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Navigate to project folder:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌟 Future Improvements
+
+- Add backend contact form
+- Add project filtering
+- Add GitHub statistics
+- Add dark/light theme toggle
+- Add animations using Framer Motion
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Bala Sai Kumar Vemula
