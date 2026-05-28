@@ -4,6 +4,7 @@ import knightBiteLogo from "../assets/knightBiteLogo.webp";
 import  weatherLogo from "../assets/weatherLogo.jpg";
 import calculatorLogo from "../assets/calculatorPic.jpg";
 import toDoListLogo from "../assets/toDoListLogo.webp";
+import portfolioLogo from "../assets/portfolioLogo.png";
 
 const Projects = () => {
 
@@ -81,6 +82,28 @@ const Projects = () => {
 
       liveLink:
         "https://balasaikumarvemula.github.io/To-Do-List/"
+    },
+
+    {
+      title: "Personal Portfolio",
+
+      description:
+        "A personal portfolio website to showcase projects, technical skills, achievements, and professional profiles in a clean and responsive interface. The website highlights development experience, coding profiles, and project work while providing easy navigation and a user-friendly design using modern web technologies.",
+
+      tech: [
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+
+      image: portfolioLogo,
+
+      githubLink:
+        "https://github.com/BalaSaikumarVemula/portfolio",
+
+      liveLink:
+        "https://balasaikumarvemula.github.io/portfolio"
     }
 
   ];
